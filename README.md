@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smallpanda78310
 - 👀 I’m interested in DevOps & EA
 - 🌱 I’m currently learning Azure DevOps
-- 💞️ I’m looking to collaborate on: nothing atm. too much of n00b
+- 💞️ I’m looking to collaborate on: nothing atm. Too much of n00b
 - 📫 How to reach me: Carrier pigeon
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Pandas only do it when nobody's staring at them
